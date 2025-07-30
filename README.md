@@ -1,6 +1,7 @@
 # rag
 rag bot using locall llm and api.
-idk who tf is reading this but only version which uses llm locally is usable.
+
+->idk who tf is reading this but only version which uses llm locally is usable.
 If you want to try open the the local version install requirements and run ollama(obviously install also install llm model) you can change models in codes its quite simple.
 
 ->The Local version is my own(copided few lines online) and I use it to summarize my notes and stuff and give most asked questions from my clg pyqs so that I dont have to study unnecessary topics which do not have any relevance whats so ever from this world.
