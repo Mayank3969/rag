@@ -90,4 +90,4 @@ For now, stick with the local version. I might revisit this later if I figure it
 
 ## Acknowledgments
 
-I poured a lot of effort into this! The local version is up and running, and I shared my journey on LinkedIn. If you’ve got tips for the API version or want to collab, I’m all ears. Thanks for checking it out—created with love at 10:32 PM IST on Thursday, July 31, 2025! 😄
+I poured a lot of effort into this! The local version is up and running, and I shared my journey on LinkedIn. If you’ve got tips for the API version or want to collab, I’m all ears. Thanks for checking it out.
