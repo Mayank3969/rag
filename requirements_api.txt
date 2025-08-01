@@ -1,0 +1,12 @@
+langchain
+langchain-community
+langchain-huggingface
+unstructured[pdf]
+chroma
+transformers
+sentence-transformers
+python-dotenv
+pdf2image
+pytesseract
+pdfminer.six
+pi_heif
