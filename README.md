@@ -1,10 +1,10 @@
 # LLM RAG Bot Setup Instructions
 
-Hey there! Welcome to my LLM RAG Bot project! 🎉 I’ve put together two versions of this cool Retrieval-Augmented Generation (RAG) chatbot:
-- **Local Version**: Runs using Ollama models right on your laptop (yay, it works!).
+Hey there! Welcome to my LLM RAG Bot project! 🎉 I’ve put together two versions of this Retrieval-Augmented Generation (RAG) chatbot:
+- **Local Version**: Runs using Ollama models right on your laptop ( it works!).
 - **API Version**: Meant to use Hugging Face API models, but it’s not working yet (more on that below).
 
-The `docs` folder is the heart of both versions, holding your PDF or PPTX files for the bot to dig into. Let’s get the local version up and running—here’s how! The API version needs some love, which I couldn’t crack in time, but it’s there for you to tinker with if you’re up for it.
+The `docs` folder is the heart of both versions, holding your PDF or PPTX files for the bot to dig into. Let’s get the local version up and running—here’s how! The API version needs some work, which I couldn’t crack in time, but it’s there.
 
 ## How to Run the Local Version
 
